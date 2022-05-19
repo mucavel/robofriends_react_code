@@ -1,4 +1,4 @@
-SITE : https://salvadormucavel.github.io/robofriends_reactj
+SITE : https://salvadormucavel.github.io/robofriends_reactjs/
 
 # Getting Started with Create React App
 

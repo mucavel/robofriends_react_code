@@ -1,7 +1,7 @@
 # Projecto de Aprendizagem de ReactJS.
 
 # WEBSITE
-https://salvadormucavel.github.io/robofriends_reactjs
+https://mucavel.github.io/robofriends_reactjs
 
 # Get started
 # Iniciar
